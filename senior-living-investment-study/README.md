@@ -40,7 +40,7 @@ The study considers:
 - Microsoft Excel
 - Python
 - SQL
-- Power BI
+- Tableau
 - Demographic and market research
 - Financial modeling
 - GIS and location analysis
