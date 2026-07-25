@@ -1,8 +1,8 @@
 # Kelly Simmons | Professional Portfolio
 
-Commercial real estate and portfolio strategy professional with experience in asset analysis, market research, financial modeling, business intelligence, and data-driven decision support.
+I am a commercial real estate and portfolio analytics professional with experience transforming complex market, financial, and operational data into actionable business decisions.
 
-My work focuses on turning complex data into clear recommendations for investment, portfolio, and operational decisions.
+My work combines commercial real estate expertise with modern analytical tools including Python, SQL, Power BI, Tableau, and Excel to support investment strategy, asset management, and market analysis.
 
 ## Core Skills
 
