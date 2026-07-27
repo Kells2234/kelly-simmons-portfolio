@@ -1,0 +1,26 @@
+Stock Screener Report - 2026-04-29 12:17
+============================================================
+Top 4 picks from NASDAQ
+Price range: $0.5 - $10.0
+Sentiment weight: 30%
+Sentiment applied to top K: 10
+
+1. PLUG - $3.27
+   5D Return: 2.4% | 20D Return: 44.6%
+   Sentiment: NEUTRAL (Score: +0.076)
+   Recent News: 5 articles
+
+2. NIO - $6.52
+   5D Return: 0.6% | 20D Return: 8.1%
+   Sentiment: NEUTRAL (Score: -0.066)
+
+3. SNDL - $1.34
+   5D Return: -19.4% | 20D Return: 1.3%
+   Sentiment: NEUTRAL (Score: -0.035)
+   Recent News: 5 articles
+
+4. ACB - $3.32
+   5D Return: -12.8% | 20D Return: 1.4%
+   Sentiment: BEARISH (Score: -0.239)
+   Recent News: 5 articles
+

@@ -86,7 +86,7 @@ The system reduces the time required to evaluate a large number of securities an
 
 The full technical implementation is maintained in a separate GitHub repository.
 
-https://github.com/Kells2234/Stockpicks/blob/main/screener_ml.py
+https://github.com/Kells2234/Stockpicks
 
 ## Important Notice
 
